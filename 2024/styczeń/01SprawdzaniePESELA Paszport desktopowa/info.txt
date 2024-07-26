@@ -1,4 +1,0 @@
-Zad 1 - konsola "PESEL"
-C:\Users\Szkola\Documents\szkola\Technik-programista\Programowanie\java\moje\Pesel1
-
-zad 2 - dokumentacja w pliku .java
