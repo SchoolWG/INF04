@@ -1,5 +1,0 @@
-zadanie 1: samogłoski
-C:\Users\Szkola\Documents\szkola\Technik-programista\Programowanie\java\programy\zadEgzamin\samogloski\Samogloski
-
-zadanie 2: aplikacja mobilna
-C:\Users\Szkola\Documents\szkola\Technik-programista\Programowanie\Aplikacje mobilne AndroidStudio\egzaminy\2024\\Stuczen24
